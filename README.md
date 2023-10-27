@@ -7,4 +7,4 @@ Created a web calculator that calculates future values using C#.
 
 
 <p> Results:</p>
-<p></p>
+<p><img src="Future Value.png"></p>
